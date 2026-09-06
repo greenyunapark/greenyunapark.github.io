@@ -1,2 +1,2 @@
-# yuuunapark.github.io
+# greenyunapark.github.io
 Personal academic website
